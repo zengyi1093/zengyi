@@ -1,1 +1,1 @@
-module github.com/zengyi/testmod
+module github.com/zengyi1093/zengyi/testmod
